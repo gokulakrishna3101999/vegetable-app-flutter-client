@@ -25,5 +25,3 @@
 <img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/checkout.jpg" width= 250/>
 </p>
 
-
-
