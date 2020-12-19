@@ -17,10 +17,10 @@
 # Screenshots
 
 <p float="left">
-<img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/cart.jpg" width= 250/>
-<img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/cart.jpg" width= 250/>
-<img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/cart.jpg" width= 250/>
-<img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/cart.jpg" width= 250/>
+<img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/sign-in.jpg" width= 250/>
+<img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/home.jpg" width= 250/>
+<img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/search.jpg" width= 250/>
+<img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/checkout.jpg" width= 250/>
 </p>
 
 
