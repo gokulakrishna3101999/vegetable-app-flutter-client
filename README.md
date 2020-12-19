@@ -16,6 +16,8 @@
 
 # Screenshots
 
+> Check out the screenshots of this app in the /screenshots folder in this repository
+
 <p float="left">
 <img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/sign-in.jpg" width= 250/>
 <img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/home.jpg" width= 250/>
