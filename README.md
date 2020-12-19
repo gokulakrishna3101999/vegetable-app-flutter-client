@@ -1,16 +1,21 @@
-# shop_final
+# Vegetable Shop
 
-A new Flutter project.
+> A client-side shop application that uses Google's Flutter SDK and Firebase Database.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+* Beautiful and responsive UI designed using Flutter framework.
 
-A few resources to get you started if this is your first Flutter project:
+* User can sign-in via Gmail or phone number (A 6-digit OTP code is sent to the user's number to authenticate the user).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* User can add, manage and delete items in the shopping cart. User is not allowed to add items until details are provided in the Profile section. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Search functionality is added to make searching for items less cumbersome.
+
+* Users can place orders and checkout. They can also check all of their present orders in the Order section.
+
+# Screenshots
+
+
+
+
