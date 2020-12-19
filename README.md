@@ -16,7 +16,7 @@
 
 # Screenshots
 
-![alt text](https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/cart.jpg?raw=true | width=100)
+<img src = "https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/cart.jpg" width= 250/>
 
 
 
