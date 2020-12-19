@@ -16,7 +16,7 @@
 
 # Screenshots
 
-![alt text](https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/cart.jpg?raw=true)
+![alt text](https://github.com/suriyaakumar/vegetable-app-flutter-client/blob/master/screenshots/cart.jpg?raw=true | width=100)
 
 
 
